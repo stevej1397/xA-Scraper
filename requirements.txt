@@ -13,7 +13,7 @@ MarkupSafe==1.0
 ## PasteDeploy
 pyramid==1.9.2
 sqlalchemy==1.2.12
-alembic==1.0.0
+alembic==1.0.1
 python-tumblpy==1.1.4
 pytz==2018.5
 ## PyYAML
